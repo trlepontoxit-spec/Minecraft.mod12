@@ -1,1 +1,5 @@
-
+{
+  "name": "Minecraft Fabric Dev",
+  "image": "mcr.microsoft.com/devcontainers/java:17",
+  "features": {}
+}
